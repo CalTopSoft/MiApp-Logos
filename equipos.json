@@ -1,7 +1,8 @@
 {
-    "version": 2,
+    "version": 3,
     "equipos": {
         "7N": "7N.png",
-        "ARMADYL": "AD.png"
+        "ARMADYL": "AD.png",
+        "T1": "T1.png",
     }
 }
