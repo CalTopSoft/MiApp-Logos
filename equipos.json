@@ -2,13 +2,13 @@
     "version": 2,
     "assets_url": "https://api.github.com/repos/tu_usuario/logos/contents/logos",
     "equipos": {
-        "UZX E-SPORTS": {
-            "archivo": "UZX_E-SPORT.png",
+        "7N SEVENS": {
+            "archivo": "7N.png",
             "hash": "a1b2c3d4...",
             "fecha_actualizacion": "2024-03-01"
         },
-        "NUEVO EQUIPO": {
-            "archivo": "nuevo_logo.png",
+        "ARMADYL": {
+            "archivo": "AD.png",
             "hash": "e5f6g7h8...",
             "fecha_actualizacion": "2024-03-05"
         }
