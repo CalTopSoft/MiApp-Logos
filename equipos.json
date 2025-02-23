@@ -1,10 +1,11 @@
 {
-    "version": 1,
+    "version": 9,
     "equipos": {
         "7N": "7N.png",
         "ARMADYL": "AD.png",
         "T1": "T1.png",
         "HELLSTAR": "AHS.png",
-        "UZX TEST": "UZXT.png"
+        "UZX TEST": "UZXT.png",
+        "42 A": "CUADOS.png"
     }
 }
