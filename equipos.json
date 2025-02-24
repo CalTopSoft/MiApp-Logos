@@ -1,13 +1,12 @@
 {
-    "version": 4,
+    "version": 5,
     "equipos": {
         "ARMADYL": "AD.png",
         "7N SEVENS": "7N.png",
-        "7X": "7N.png",
         "AGS EU": "AGS.png",
         "AGSV2 ESPORTS": "AGS.png",
         "ALQAEDA": "ALQ.png",
-        "ALQ": "ALQ.png",
+        "ALQ G": "ALQ.png",
         "ALQ MB": "ALQ.png",
         "ATTACK": "ATK.png",
         "ALQ PREMIER": "ALQ.png",
