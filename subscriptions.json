@@ -6,7 +6,7 @@
         },
         "tabla_nml": {
             "expiration_date": "2026-03-30",
-            "allowed": false
+            "allowed": true
         },
         "app_3": {
             "expiration_date": "2025-03-15",
