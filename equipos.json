@@ -1,7 +1,8 @@
 {
-    "version": 5,
+    "version": 6,
     "equipos": {
         "ARMADYL": "AD.png",
+        "ARMADYL PC": "AD.png",
         "7N SEVENS": "7N.png",
         "AGS EU": "AGS.png",
         "AGSV2 ESPORTS": "AGS.png",
