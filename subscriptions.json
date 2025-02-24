@@ -1,0 +1,20 @@
+{
+    "subscriptions": {
+        "tabla_uzx": {
+            "expiration_date": "2025-12-31",
+            "allowed": true
+        },
+        "app_2": {
+            "expiration_date": "2024-06-30",
+            "allowed": false
+        },
+        "app_3": {
+            "expiration_date": "2025-03-15",
+            "allowed": true
+        },
+        "app_4": {
+            "expiration_date": "2023-12-31",
+            "allowed": true
+        }
+    }
+}
