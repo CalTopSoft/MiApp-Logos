@@ -4,8 +4,8 @@
             "expiration_date": "2025-02-25",
             "allowed": true
         },
-        "app_2": {
-            "expiration_date": "2024-06-30",
+        "tabla_nml": {
+            "expiration_date": "2026-03-30",
             "allowed": false
         },
         "app_3": {
