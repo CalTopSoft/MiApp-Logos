@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 9,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -242,6 +242,7 @@
         "UZX PC": "LOGOUZX.png",
         "UZX MOBILE": "LOGOUZX.png",
         "UZX TEST": "UZXT.png",
+        "UZX 1": "UZXT.png",
         "VIP E-SPORTS": "VIP.png",
         "VALHALLA": "VALHALLA.png",
         "VALHALLA PC": "VALHALLA.png",
