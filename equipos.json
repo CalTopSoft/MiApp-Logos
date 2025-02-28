@@ -1,5 +1,5 @@
 {
-    "version": 10,
+    "version": 11,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -9,6 +9,7 @@
         "ALQAEDA": "ALQ.png",
         "ALQ G": "ALQ.png",
         "ALQ MB": "ALQ.png",
+        "AMIRS": "AMR.png",
         "ATTACK": "ATK.png",
         "ALQ PREMIER": "ALQ.png",
         "ALQ MINOR": "ALQ.png",
