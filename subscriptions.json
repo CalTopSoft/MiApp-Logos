@@ -8,9 +8,9 @@
             "expiration_date": "2026-03-30",
             "allowed": true
         },
-        "app_3": {
-            "expiration_date": "2025-03-15",
-            "allowed": false
+        "tabla_prueba": {
+            "expiration_date": "2025-02-29",
+            "allowed": true
         },
         "app_4": {
             "expiration_date": "2023-12-31",
