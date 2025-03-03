@@ -1,5 +1,5 @@
 {
-    "version": 11,
+    "version": 13,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -196,6 +196,7 @@
         "OFFLINE": "OFF.png",
         "OFFLINE A": "OFF.png",
         "OFFLINE B": "OFF.png",
+        "OSK SPORT": "OSK.png",
         "PKB": "PKB.png",
         "PKB F1": "PKB.png",
         "PXS SPORTS": "PXS.png",
