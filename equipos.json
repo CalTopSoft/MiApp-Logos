@@ -24,6 +24,7 @@
         "ALYANZ SA": "ALYANZ.png",
         "ALYANZ NA": "ALYANZ.png",
         "ALYANZ MIXTO": "ALYANZ.png",
+        "ALYANZ CC": "ALYANZ.png",
         "ALYANZ MIX": "ALYANZ.png",
         "ALYANZ UZK": "ALYANZ.png",
         "AS": "AS.png",
@@ -99,6 +100,7 @@
         "FXL": "NO.png",
         "FANTIC STATION": "NO.png",
         "FACTOZ": "FZ.png",
+        "FALCON ESPORTS": "FE.png",
         "FZ GOLD": "FZZ.png",
         "FZ NIGHT": "FZZ.png",
         "GUARANI SPORT": "GUAR.png",
@@ -147,6 +149,7 @@
         "KND E-SPORT": "KND.png",
         "KING INMORTAL": "KI.png",
         "KND OFICIAL": "KND.png",
+        "KND MOB": "KND.png",
         "KTK": "KTK.png",
         "KOPASUS": "KOPA.png",
         "KITSUNE": "KT.png",
@@ -235,6 +238,7 @@
         "TTV": "TTV.png",
         "TFO": "TFO.png",
         "TFO NG": "TFO.png",
+        "TSG": "TSG.png",
         "ULT ELITE": "ULT.png",
         "UNDER WOLRD": "UW.png",
         "UNKNOWS": "UNK.png",
@@ -247,6 +251,7 @@
         "UZX E-SPORTS": "UZX_E-SPORT.png",
         "UZX TEAM": "UZX_TEAM.png",
         "UZX MIXTO": "LOGOUZX.png",
+        "UZX TIER": "LOGOUZX.png",
         "UZX PC": "LOGOUZX.png",
         "UZX MOBILE": "LOGOUZX.png",
         "UZX TEST": "UZXT.png",
@@ -273,6 +278,7 @@
         "6XZ E-SPORTS": "6XZ.png",
         "7Z GLIZZY": "GLIZZY.png",
         "8GAY": "GAY.png",
+        "4Z SPORTS": "4Z.png",
         "TEAM 30": "T30.png"
     }
 }
