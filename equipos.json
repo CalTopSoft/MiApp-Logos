@@ -1,5 +1,5 @@
 {
-    "version": 13,
+    "version": 14,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -185,6 +185,7 @@
         "NVIDIA GG": "NVDIA.png",
         "NWG": "NWG.png",
         "NH TEAM": "NH.png",
+        "NH TEST": "NH.png",
         "NH TEAM G": "NH.png",
         "NH TEAM B": "NH.png",
         "NWG ELITE": "NWG.png",
@@ -253,6 +254,7 @@
         "UZX TEAM": "UZX_TEAM.png",
         "UZX MIXTO": "LOGOUZX.png",
         "UZX TIER": "LOGOUZX.png",
+        "UNKNOWNS": "UKN.png",
         "UZX PC": "LOGOUZX.png",
         "UZX MOBILE": "LOGOUZX.png",
         "UZX TEST": "UZXT.png",
