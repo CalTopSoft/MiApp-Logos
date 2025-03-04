@@ -1,5 +1,5 @@
 {
-    "version": 14,
+    "version": 15,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -254,7 +254,7 @@
         "UZX TEAM": "UZX_TEAM.png",
         "UZX MIXTO": "LOGOUZX.png",
         "UZX TIER": "LOGOUZX.png",
-        "UNKNOWNS": "UKN.png",
+        "UNKNOWNS": "NO.png",
         "UZX PC": "LOGOUZX.png",
         "UZX MOBILE": "LOGOUZX.png",
         "UZX TEST": "UZXT.png",
