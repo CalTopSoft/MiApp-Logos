@@ -1,5 +1,5 @@
 {
-    "version": 17,
+    "version": 18,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -218,6 +218,7 @@
         "RQ ALPHA": "RQ.png",
         "RQ DELTA": "RQ.png",
         "RAGNAROK": "RAG.png",
+        "REX GAMING": "RAG.png",
         "RS ELITE": "RS.png",
         "SECRET FAMILY": "NO.png",
         "SINEIRA": "SN.png",
