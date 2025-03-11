@@ -1,5 +1,5 @@
 {
-    "version": 20,
+    "version": 21,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -82,6 +82,7 @@
         "DYNASTY": "DYNASTY.png",
         "DYNASTY 2": "DYNASTY.png",
         "DRAGON LEGIONS": "DL.png",
+        "DIGNITAS": "DG.png",
         "EDENS": "EDENS.png",
         "EW": "EW.png",
         "EVIL WHISPER": "EW.png",
