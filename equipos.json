@@ -1,5 +1,5 @@
 {
-    "version": 22,
+    "version": 23,
     "equipos": {
         "ARMADYL": "AD.png",
         "ARMADYL PC": "AD.png",
@@ -295,6 +295,7 @@
         "6XZ E-SPORTS": "6XZ.png",
         "7Z GLIZZY": "GLIZZY.png",
         "8GAY": "GAY.png",
+        "4LS": "4LS.png",
         "4Z SPORTS": "4Z.png",
         "TEAM 30": "T30.png"
     }
