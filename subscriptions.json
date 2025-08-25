@@ -4,6 +4,10 @@
             "expiration_date": "2030-05-25",
             "allowed": true
         },
+        "tabla_united_fem": {
+            "expiration_date": "2030-05-25",
+            "allowed": true
+        },
         "tabla_nml": {
             "expiration_date": "2026-03-30",
             "allowed": true
