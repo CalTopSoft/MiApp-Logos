@@ -8,6 +8,10 @@
             "expiration_date": "2030-05-25",
             "allowed": true
         },
+        "tabla_Fourth_Zone": {
+            "expiration_date": "2030-05-25",
+            "allowed": true
+        },
         "tabla_nml": {
             "expiration_date": "2026-03-30",
             "allowed": true
