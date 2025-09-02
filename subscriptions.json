@@ -5,7 +5,11 @@
             "allowed": true
         },
         "tabla_united_fem": {
-            "expiration_date": "2030-05-25",
+            "expiration_date": "2025-09-05",
+            "allowed": true
+        },
+        "tabla_united_fem15": {
+            "expiration_date": "2025-09-05",
             "allowed": true
         },
         "tabla_Fourth_Zone": {
@@ -18,7 +22,7 @@
         },
         "tabla_prueba": {
             "expiration_date": "2025-04-10",
-            "allowed": true
+            "allowed": false
         },
         "tabla_ayz": {
             "expiration_date": "2025-08-30",
