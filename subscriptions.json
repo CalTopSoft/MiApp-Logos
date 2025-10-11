@@ -6,9 +6,9 @@
         },
         "tabla_united_fem": {
             "expiration_date": "2025-10-29",
-            "allowed": true
+            "allowed": false
         },
-        "tabla_united_fem15": {
+        "tabla_united_fem30": {
             "expiration_date": "2025-10-29",
             "allowed": true
         },
