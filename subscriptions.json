@@ -20,9 +20,9 @@
             "expiration_date": "2026-03-30",
             "allowed": true
         },
-        "tabla_prueba": {
+        "tabla_united_fem15": {
             "expiration_date": "2025-12-10",
-            "allowed": false
+            "allowed": true
         },
         "tabla_ayz": {
             "expiration_date": "2025-12-29",
