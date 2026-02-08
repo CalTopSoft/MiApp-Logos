@@ -27,6 +27,10 @@
         "tabla_ayz": {
             "expiration_date": "2025-12-29",
             "allowed": true
+        },
+        "mvp_ayz": {
+            "expiration_date": "2026-02-09",
+            "allowed": true
         }
     }
 }
