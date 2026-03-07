@@ -5,11 +5,11 @@
             "allowed": true
         },
         "tabla_united_fem": {
-            "expiration_date": "2026-04-31",
+            "expiration_date": "2026-04-30",
             "allowed": true
         },
         "tabla_united_fem30": {
-            "expiration_date": "2026-04-31",
+            "expiration_date": "2026-04-30",
             "allowed": true
         },
         "tabla_Fourth_Zone": {
@@ -21,15 +21,15 @@
             "allowed": false
         },
         "tabla_united_fem15": {
-            "expiration_date": "2026-04-31",
+            "expiration_date": "2026-04-30",
             "allowed": true
         },
         "tabla_ayz": {
-            "expiration_date": "2026-04-31",
+            "expiration_date": "2026-04-30",
             "allowed": true
         },
         "mvp_ayz": {
-            "expiration_date": "2026-04-31",
+            "expiration_date": "2026-04-30",
             "allowed": true
         }
     }
